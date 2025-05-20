@@ -1,2 +1,6 @@
+# Entorno virtual
 venv/
+__pycache__/
+
+# Configuración privada
 .streamlit/secrets.toml
